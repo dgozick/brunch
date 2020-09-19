@@ -57,7 +57,7 @@
     "commonjs-require-definition": "~0.6.2",
     "debug": "^3.1.0",
     "deppack": "~0.8",
-    "deps-install": "github:dgozick/deps-install#test",
+    "deps-install": "github:dgozick/deps-install#master",
     "fcache": "~0.3",
     "init-skeleton": "~1.0",
     "loggy": "~1.0.3",
