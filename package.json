@@ -50,7 +50,7 @@
   "dependencies": {
     "anymatch": "^2.0",
     "anysort": "~1.0",
-    "check-dependencies": "~1.0.1",
+    "check-dependencies": "^1.1.0",
     "chokidar": "^2",
     "coffeescript": "~1.12.7",
     "commander": "~2.9",
@@ -59,7 +59,7 @@
     "deppack": "~0.8",
     "deps-install": "github:dgozick/deps-install#master",
     "fcache": "~0.3",
-    "init-skeleton": "~1.0",
+    "init-skeleton": "^0.8.0",
     "loggy": "~1.0.3",
     "micro-es7-shim": "^0.1",
     "micro-promisify": "~0.1",
@@ -73,12 +73,12 @@
     "universal-path": "^0.1"
   },
   "devDependencies": {
-    "ava": "~0.16",
+    "ava": "^3.15.0",
     "eslint": "^3",
     "eslint-config-brunch": "^1",
     "fixturify": "^0.2",
     "fs-extra": "^0.30",
-    "nyc": "^13.0.0",
+    "nyc": "^15.1.0",
     "rewire": "^2.5",
     "test-console": "^1"
   },
